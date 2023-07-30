@@ -1,0 +1,49 @@
+	key <AE01> { [ 0, U0661, NoSymbol, NoSymbol ] }; // ARABIC-INDIC DIGIT ONE, EXCLAMATION MARK, <none>, <none>
+	key <AE02> { [ 0, U0662, U0621, U0621 ] }; // ARABIC-INDIC DIGIT TWO, COMMERCIAL AT, ARABIC LETTER HAMZA, ARABIC LETTER HAMZA
+	key <AE03> { [ 0, U0663, U0639, U0639 ] }; // ARABIC-INDIC DIGIT THREE, NUMBER SIGN, ARABIC LETTER AIN, ARABIC LETTER AIN
+	key <AE04> { [ 0, U0664, NoSymbol, NoSymbol ] }; // ARABIC-INDIC DIGIT FOUR, DOLLAR SIGN, <none>, <none>
+	key <AE05> { [ 0, U0665, U062e, U062e ] }; // ARABIC-INDIC DIGIT FIVE, PERCENT SIGN, ARABIC LETTER KHAH, ARABIC LETTER KHAH
+	key <AE06> { [ 0, U0666, NoSymbol, NoSymbol ] }; // ARABIC-INDIC DIGIT SIX, CIRCUMFLEX ACCENT, <none>, <none>
+	key <AE07> { [ 0, U0667, U062d, U062d ] }; // ARABIC-INDIC DIGIT SEVEN, AMPERSAND, ARABIC LETTER HAH, ARABIC LETTER HAH
+	key <AE08> { [ 0, U0668, U063a, U063a ] }; // ARABIC-INDIC DIGIT EIGHT, ASTERISK, ARABIC LETTER GHAIN, ARABIC LETTER GHAIN
+	key <AE09> { [ 0, U0669, NoSymbol, NoSymbol ] }; // ARABIC-INDIC DIGIT NINE, LEFT PARENTHESIS, <none>, <none>
+	key <AE10> { [ 0, U0660, NoSymbol, NoSymbol ] }; // ARABIC-INDIC DIGIT ZERO, RIGHT PARENTHESIS, <none>, <none>
+0c	OEM_MINUS	0	002d	005f	NoSymbol	NoSymbol		// HYPHEN-MINUS, LOW LINE, <none>, <none>
+0d	OEM_PLUS	0	003d	002b	NoSymbol	NoSymbol		// EQUALS SIGN, PLUS SIGN, <none>, <none>
+	key <AD01> { [ 0, U0642, NoSymbol, NoSymbol ] }; // ARABIC LETTER QAF, <none>, <none>, <none>
+	key <AD02> { [ 0, U0648, U064f, U064f ] }; // ARABIC LETTER WAW, <none>, ARABIC DAMMA, ARABIC DAMMA
+	key <AD03> { [ 0, U0649, U0650, U0650 ] }; // ARABIC LETTER ALEF MAKSURA, ARABIC LETTER YEH WITH HAMZA ABOVE, ARABIC KASRA, ARABIC KASRA
+	key <AD04> { [ 0, U0631, NoSymbol, NoSymbol ] }; // ARABIC LETTER REH, <none>, <none>, <none>
+	key <AD05> { [ 0, U062a, NoSymbol, NoSymbol ] }; // ARABIC LETTER TEH, ARABIC LETTER TAH, <none>, <none>
+	key <AD06> { [ 0, U064a, U0650, U0650 ] }; // ARABIC LETTER YEH, ARABIC LETTER ALEF MAKSURA, ARABIC KASRA, ARABIC KASRA
+	key <AD07> { [ 0, U0648, U064f, NoSymbol ] }; // ARABIC LETTER WAW, <none>, ARABIC DAMMA, <none>
+	key <AD08> { [ 0, U064a, U0650, U0650 ] }; // ARABIC LETTER YEH, ARABIC LETTER ALEF WITH HAMZA BELOW, ARABIC KASRA, ARABIC KASRA
+	key <AD09> { [ 0, U0648, U064f, U064f ] }; // ARABIC LETTER WAW, <none>, ARABIC DAMMA, ARABIC DAMMA
+	key <AD10> { [ 0, U0628, NoSymbol, NoSymbol ] }; // ARABIC LETTER BEH, <none>, <none>, <none>
+	key <AD11> { [ 0, U005b, NoSymbol, NoSymbol ] }; // LEFT SQUARE BRACKET, LEFT CURLY BRACKET, <none>, <none>
+	key <AD12> { [ 0, U005d, NoSymbol, NoSymbol ] }; // RIGHT SQUARE BRACKET, RIGHT CURLY BRACKET, <none>, <none>
+	key <AC01> { [ 0, U0627, U064e, U064e ] }; // ARABIC LETTER ALEF, ARABIC LETTER ALEF WITH HAMZA ABOVE, ARABIC FATHA, ARABIC FATHA
+	key <AC02> { [ 0, U0633, U0652, U0652 ] }; // ARABIC LETTER SEEN, ARABIC LETTER SAD, ARABIC SUKUN, ARABIC SUKUN
+	key <AC03> { [ 0, U062f, NoSymbol, NoSymbol ] }; // ARABIC LETTER DAL, ARABIC LETTER DAD, <none>, <none>
+	key <AC04> { [ 0, U0641, NoSymbol, NoSymbol ] }; // ARABIC LETTER FEH, <none>, <none>, <none>
+	key <AC05> { [ 0, U062c, NoSymbol, NoSymbol ] }; // ARABIC LETTER JEEM, ARABIC LETTER GHAIN, <none>, <none>
+	key <AC06> { [ 0, U0647, NoSymbol, NoSymbol ] }; // ARABIC LETTER HEH, ARABIC LETTER TEH MARBUTA, <none>, <none>
+	key <AC07> { [ 0, U062c, NoSymbol, NoSymbol ] }; // ARABIC LETTER JEEM, <none>, <none>, <none>
+	key <AC08> { [ 0, U0643, NoSymbol, NoSymbol ] }; // ARABIC LETTER KAF, ARABIC LETTER QAF, <none>, <none>
+	key <AC09> { [ 0, U0644, NoSymbol, NoSymbol ] }; // ARABIC LETTER LAM, <none>, <none>, <none>
+	key <AC10> { [ 0, U061b, NoSymbol, NoSymbol ] }; // ARABIC SEMICOLON, COLON, <none>, <none>
+	key <AC11> { [ 0, U0027, NoSymbol, NoSymbol ] }; // APOSTROPHE, QUOTATION MARK, <none>, <none>
+	key <TLDE> { [ 0, U0630, U0651, U0651 ] }; // ARABIC LETTER THAL, TILDE, ARABIC SHUADDA, ARABIC SHADDA
+	key <BKSL> { [ 0, U005c, NoSymbol, NoSymbol ] }; // REVERSE SOLIDUS, VERTICAL LINE, <none>, <none>
+	key <AB01> { [ 0, U0632, NoSymbol, NoSymbol ] }; // ARABIC LETTER ZAIN, ARABIC LETTER ZAH, <none>, <none>
+	key <AB02> { [ 0, U062e, NoSymbol, NoSymbol ] }; // ARABIC LETTER KHAH, <none>, <none>, <none>
+	key <AB03> { [ 0, U062b, NoSymbol, NoSymbol ] }; // ARABIC LETTER THEH, ARABIC LETTER SHEEN, <none>, <none>
+	key <AB04> { [ 0, U0641, NoSymbol, NoSymbol ] }; // ARABIC LETTER FEH, <none>, <none>, <none>
+	key <AB05> { [ 0, U0628, NoSymbol, NoSymbol ] }; // ARABIC LETTER BEH, <none>, <none>, <none>
+	key <AB06> { [ 0, U0646, NoSymbol, NoSymbol ] }; // ARABIC LETTER NOON, <none>, <none>, <none>
+	key <AB07> { [ 0, U0645, NoSymbol, NoSymbol ] }; // ARABIC LETTER MEEM, <none>, <none>, <none>
+33	OEM_COMMA	0	060c	003c	NoSymbol	NoSymbol		// ARABIC COMMA, LESS-THAN SIGN, <none>, <none>
+34	OEM_PERIOD	0	002e	003e	NoSymbol	NoSymbol		// FULL STOP, GREATER-THAN SIGN, <none>, <none>
+	key <AB10> { [ 0, U002f, NoSymbol, NoSymbol ] }; // SOLIDUS, ARABIC QUESTION MARK, <none>, <none>
+	key <SPCE> { [ 0, U0020, NoSymbol, NoSymbol ] }; // SPACE, SPACE, <none>, <none>
+53	DECIMAL	0	002e	002e	NoSymbol	NoSymbol		// FULL STOP, FULL STOP, ,
